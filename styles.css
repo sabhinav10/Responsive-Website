@@ -78,7 +78,7 @@ section {
 .container {
   width: 50%;
   margin: 0 auto;
-  border: 2px solid magenta;
+  /* border: 2px solid magenta;*/
   max-width: 620px;
 }
 .section-two {
